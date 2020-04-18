@@ -12,8 +12,10 @@ Audius is a streaming platform that is aimed towards all musicians and not just 
 #### Motivation/Evaluation 
 As a San Francisco native, it was really cool for a SF startup company to find an innovative way to support artists while being sustainable. But, Audius falls under the “too minimalistic/innovative” vibe as the platform itself mirrors the work of a techie from Silicon Valley and not really from a creative perspective. I believe a proper heuristic evaluation will pinpoint issues and discover ways to improve the app. 
 ## Audiomack 
-Here is the Website Link. [Click Here] https://audiomack.com/
-Here is the App Link. [Here] https://apps.apple.com/us/app/audius-music/id1491270519
+Here is the Website Link. [Click Here](https://audiomack.com/)
+
+Here is the App Link. [Here](https://apps.apple.com/us/app/audius-music/id1491270519)
+
 #### Brief Information 
 Audiomack was founded in 2012 by Dave Macli and David Ponte; the two wanted artists to freely share their music without little to no barriers. In comparison to streaming giants like Spotify and Apple Music, the six-year-old company separates itself by being completely free to artists and listeners; their money comes from advertisements and premium subscriptions. Although the platform revolves around hip-hop/rap, the streaming service has a wide variety of genres that users can browse. 
 
@@ -21,4 +23,4 @@ Audiomack was founded in 2012 by Dave Macli and David Ponte; the two wanted arti
 I was shocked to discover a streaming platform that has such a huge listener base despite not having any of my friends, family, or colleagues use Audiomack. As a supporter of various music platforms that best fit different preferences, I decided to do an evaluation on a company’s newly made mobile app. After briefly looking through their app, I concluded that the streaming platform’s app is overwhelming and outdated.
 
 ## Heuristic Evaluation 
-Here is the Downloadable Link. [Here] https://docs.google.com/document/d/1ubWqAnLRsQN6PYGD9D5Qw6H_r1Na1C50S7xoJUz70uc/export?format=pdf
+Here is the Downloadable Link. [Here](https://docs.google.com/document/d/1ubWqAnLRsQN6PYGD9D5Qw6H_r1Na1C50S7xoJUz70uc/export?format=pdf)
