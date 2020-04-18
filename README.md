@@ -21,4 +21,4 @@ Audiomack was founded in 2012 by Dave Macli and David Ponte; the two wanted arti
 I was shocked to discover a streaming platform that has such a huge listener base despite not having any of my friends, family, or colleagues use Audiomack. As a supporter of various music platforms that best fit different preferences, I decided to do an evaluation on a company’s newly made mobile app. After briefly looking through their app, I concluded that the streaming platform’s app is overwhelming and outdated.
 
 ## Heuristic Evaluation 
-Here is the Downloadable Link. [Here] https://docs.google.com/document/d/1ubWqAnLRsQN6PYGD9D5Qw6H_r1Na1C50S7xoJUz70uc/edit?usp=sharing
+Here is the Downloadable Link. [Here] https://docs.google.com/document/d/1ubWqAnLRsQN6PYGD9D5Qw6H_r1Na1C50S7xoJUz70uc/export?format=pdf
